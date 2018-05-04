@@ -1,17 +1,8 @@
-﻿
+﻿README - SHADER FORGE 2018
+Contact:
+Please contact me @jackisgames instead of Freya Holmer, I'll see what i can do :)
+
 README - SHADER FORGE
-
-
-Contact / Support:
-------------------
-Mail - joachim@neatcorporation.com
-Bugs & feature requests - http://shaderforge.userecho.com/
-Twitter - @JoachimHolmer / #ShaderForge
-
-Please avoid sending me questions like "How do I make a shader that ________ ? ".
-I'm unfortunately unable to respond to all shader inquiries, given the volume of users and the limited time I have.
-Try to keep that to the forum threads so that others can see and potentially help you too. (Though I will occasionally respond there as well)
-
 Website:
 --------
 http://www.acegikmo.com/shaderforge/  (Includes documentation, tutorials, links to forum threads, and more!)
